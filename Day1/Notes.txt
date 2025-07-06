@@ -1,0 +1,4 @@
+Day 1 Notes:
+- Arrays: declaration, traversal, max, reverse, sorted check
+- Loops: for, while, if-else, Scanner input
+- Java Data Types, Edge Cases
